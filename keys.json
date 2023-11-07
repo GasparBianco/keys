@@ -1,11 +1,4 @@
-{"keys": [
-    {
-      "nombre": "Prueba",
-      "descripcion": true
-    },
-    {
-      "nombre": "Prueba2",
-      "descripcion": false
-    }
-  ]}
+{"Prueba": true,
+"Prueba2": false}
   
+
